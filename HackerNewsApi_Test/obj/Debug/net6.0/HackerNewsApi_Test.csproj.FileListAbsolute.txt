@@ -1,0 +1,5 @@
+C:\HackerAPI\HackerNewsApi_Test\obj\Debug\net6.0\HackerNewsApi_Test.csproj.AssemblyReference.cache
+C:\HackerAPI\HackerNewsApi_Test\obj\Debug\net6.0\HackerNewsApi_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\HackerAPI\HackerNewsApi_Test\obj\Debug\net6.0\HackerNewsApi_Test.AssemblyInfoInputs.cache
+C:\HackerAPI\HackerNewsApi_Test\obj\Debug\net6.0\HackerNewsApi_Test.AssemblyInfo.cs
+C:\HackerAPI\HackerNewsApi_Test\obj\Debug\net6.0\HackerNewsApi_Test.csproj.CoreCompileInputs.cache
