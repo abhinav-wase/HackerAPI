@@ -110,3 +110,7 @@ C:\HackerAPI\HackerNewsApi_Test\obj\Debug\net7.0\refint\HackerNewsApi_Test.dll
 C:\HackerAPI\HackerNewsApi_Test\obj\Debug\net7.0\HackerNewsApi_Test.pdb
 C:\HackerAPI\HackerNewsApi_Test\obj\Debug\net7.0\HackerNewsApi_Test.genruntimeconfig.cache
 C:\HackerAPI\HackerNewsApi_Test\obj\Debug\net7.0\ref\HackerNewsApi_Test.dll
+C:\HackerAPI\HackerNewsApi_Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\HackerAPI\HackerNewsApi_Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\HackerAPI\HackerNewsApi_Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\HackerAPI\HackerNewsApi_Test\bin\Debug\net7.0\Microsoft.OpenApi.dll
