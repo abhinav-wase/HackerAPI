@@ -16,6 +16,7 @@ This project is an ASP.NET Core Web API that serves as an interface to retrieve 
     - [Exploring and Testing the API](#exploring-and-testing-the-api)
 - [Configuration](#configuration)
 - [Error Handling](#error-handling)
+- [Testing](#testing)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -55,6 +56,7 @@ The API provides an endpoint for retrieving the newest stories from Hacker News.
 Endpoint URL: http://localhost:<your-port>/api/News/newest
 ```
 
+
 ### Query Parameters
 
 The GetNewestStories endpoint supports the following optional query parameters for pagination:
@@ -67,6 +69,7 @@ Example Request: (Default port : 5163 || IISExpress : 44398 for https)
 ```http
 GET http://localhost:<your-port>/api/News/newest?page=2&pageSize=15
 ```
+![image](https://github.com/abhinav-wase/HackerAPI/assets/62688135/0ce64a98-e9e8-4552-99aa-951c8e11eb8d)
 
 
 ### Swagger UI
@@ -83,6 +86,7 @@ Explore and test the API using Swagger UI. Swagger UI provides an interactive do
 http://localhost:<your-port>/swagger
 ```
 
+
 ### Exploring and Testing the API
 
 In Swagger UI, you will see a list of available API endpoints.
@@ -93,7 +97,8 @@ In Swagger UI, you will see a list of available API endpoints.
   2. Click the "Try it out" button, fill in any parameters, and click "Execute."
 
   3. Review the response details, including the HTTP status code, response body, headers, etc.
-
+     
+![image](https://github.com/abhinav-wase/HackerAPI/assets/62688135/2a446d9a-6c26-4a53-8993-8930ae6d9b2c)
 
 ## Configuration
 
@@ -114,6 +119,29 @@ Example Error Response:
   "error": "An error occurred: [error message]"
 }
 ```
+
+#Testing
+To run the tests for this project, follow these steps:
+
+Open a terminal.
+
+Navigate to the project directory:
+
+```bash
+cd HackerNewsApi_Test
+```
+
+Run the tests:
+
+```bash
+dotnet test
+```
+
+This will execute the test suite and provide feedback on the test results.
+
+![image](https://github.com/abhinav-wase/HackerAPI/assets/62688135/02419786-085d-45ba-8a19-95290520d8fa)
+
+
 
 ## Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and contributions are welcome.
