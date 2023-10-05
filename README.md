@@ -9,13 +9,13 @@ This project is an ASP.NET Core Web API that serves as an interface to retrieve 
 - [Getting Started](##getting-started)
   - [Prerequisites](###prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-  - [Endpoint](#endpoint)
-  - [Query Parameters](#query-parameters)
-  - [Swagger UI](#swagger-ui)
-    - [Exploring and Testing the API](#exploring-and-testing-the-api)
-- [Configuration](#configuration)
-- [Error Handling](#error-handling)
+- [Usage](##usage)
+  - [Endpoint](###endpoint)
+  - [Query Parameters](###query-parameters)
+  - [Swagger UI](###swagger-ui)
+    - [Exploring and Testing the API](###exploring-and-testing-the-api)
+- [Configuration](##configuration)
+- [Error Handling](##error-handling)
 - [Testing](#testing)
 - [Contributing](#contributing)
 - [License](#license)
@@ -120,7 +120,7 @@ Example Error Response:
 }
 ```
 
-#Testing
+# Testing
 To run the tests for this project, follow these steps:
 
 Open a terminal.
