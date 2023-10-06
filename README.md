@@ -32,7 +32,9 @@ To run this project, you need the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/hacker-news-api.git
+   git clone https://github.com/abhinav-wase/HackerAPI.git
+
+   (https://github.com/abhinav-wase/HackerAPI_Angular/tree/V1.0)
    ```
 2. Navigate to the project directory:
  ```bash
